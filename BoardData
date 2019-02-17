@@ -1,0 +1,49 @@
+Microsoft Windows [Version 10.0.17763.316]
+(c) 2018 Microsoft Corporation. All rights reserved.
+
+C:\Users\ahmad>az login
+Note, we have launched a browser for you to login. For old experience with device code, use "az login --use-device-code"
+You have logged in. Now let us find all the subscriptions to which you have access...
+[
+  {
+    "cloudName": "AzureCloud",
+    "id": "05a5a7b8-bc98-4274-abcf-afbff618a9af",
+    "isDefault": true,
+    "name": "Azure for Students",
+    "state": "Enabled",
+    "tenantId": "c39156be-1285-4597-845f-d34864ee6998",
+    "user": {
+      "name": "anykamal@edu.uwaterloo.ca",
+      "type": "user"
+    }
+  }
+]
+
+C:\Users\ahmad>az iot hub monitor-events --login "HostName=EWTgnome.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=4sFUZ+Ngr5QZPl3CvpA0uSe7cB9JDIP6BDHbFg1b18w="
+Starting event monitor, use ctrl-c to stop...
+
+C:\Users\ahmad>az iot hub monitor-events --login "HostName=EWTgnome.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=4sFUZ+Ngr5QZPl3CvpA0uSe7cB9JDIP6BDHbFg1b18w="
+Starting event monitor, use ctrl-c to stop...
+
+C:\Users\ahmad>az iot hub monitor-events --login "HostName=EWTgnome.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=4sFUZ+Ngr5QZPl3CvpA0uSe7cB9JDIP6BDHbFg1b18w="
+Starting event monitor, use ctrl-c to stop...
+
+C:\Users\ahmad>az iot hub monitor-events --login "HostName=EWTgnome.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=4sFUZ+Ngr5QZPl3CvpA0uSe7cB9JDIP6BDHbFg1b18w="
+Starting event monitor, use ctrl-c to stop...
+
+C:\Users\ahmad>az iot hub monitor-events --login "HostName=EWTgnome.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=4sFUZ+Ngr5QZPl3CvpA0uSe7cB9JDIP6BDHbFg1b18w="
+Starting event monitor, use ctrl-c to stop...
+
+C:\Users\ahmad>az iot hub monitor-events --login "HostName=EWTgnome.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=4sFUZ+Ngr5QZPl3CvpA0uSe7cB9JDIP6BDHbFg1b18w="
+Starting event monitor, use ctrl-c to stop...
+
+C:\Users\ahmad>az iot hub monitor-events --login "HostName=EWTgnome.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=4sFUZ+Ngr5QZPl3CvpA0uSe7cB9JDIP6BDHbFg1b18w="
+Starting event monitor, use ctrl-c to stop...
+
+C:\Users\ahmad>az iot hub monitor-events --login "HostName=EWTgnome.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=4sFUZ+Ngr5QZPl3CvpA0uSe7cB9JDIP6BDHbFg1b18w="
+Starting event monitor, use ctrl-c to stop...
+
+C:\Users\ahmad>az iot hub monitor-events --login "HostName=EWTgnome.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=4sFUZ+Ngr5QZPl3CvpA0uSe7cB9JDIP6BDHbFg1b18w="
+Starting event monitor, use ctrl-c to stop...
+
+C:\Users\ahmad>
